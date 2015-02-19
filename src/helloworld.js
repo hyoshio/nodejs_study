@@ -3,3 +3,4 @@ function hello(name){
 }
 
 hello('node.js');
+hello('node.js');
